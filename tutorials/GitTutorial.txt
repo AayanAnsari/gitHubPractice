@@ -1,0 +1,2 @@
+I have created this file to first stage this by git command "git add ." And then I am going to commit 
+This by git commit 
