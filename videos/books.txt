@@ -1,0 +1,3 @@
+[x] English
+[ ] Hindi
+[x] Maths
