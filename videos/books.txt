@@ -1,3 +1,5 @@
 [x] English
 [ ] Hindi
 [x] Maths
+[x] So Science
+[ ] Science
